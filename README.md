@@ -29,7 +29,6 @@ var Shopify = new shopifyAPI({
 
 ```
 
-
 ## Configure Private App
 
 Private apps are created for a single shop and do not appear in the shopify app store. [More info here.](https://docs.shopify.com/api/guides/introduction/creating-a-private-app)
